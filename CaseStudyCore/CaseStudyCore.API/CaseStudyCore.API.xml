@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CaseStudyCore.API</name>
+    </assembly>
+    <members>
+        <member name="M:CaseStudyCore.API.Controllers.CompanyController.GetList">
+            <summary>
+            Get All Company
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
